@@ -1,4 +1,4 @@
-# Ai-cartooniser
+Artifice Nexus
 Artifice Nexus is an AI-driven web application that transforms real images into cartoon, sketch, and artistic oil-paint styles using deep-learning based image stylization. The platform provides a smooth, real-time experience with webcam capture, instant previews, and fast ML inference.
 
 Features:

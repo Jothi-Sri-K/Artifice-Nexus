@@ -1,0 +1,9 @@
+flask
+flask-cors
+tensorflow
+opencv-python
+pillow
+pyttsx3
+huggingface_hub
+numpy
+gunicorn
